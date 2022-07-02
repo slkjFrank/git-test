@@ -17,6 +17,6 @@ public class Testgit {
         System.out.println("hello git! hello myself!");
         System.out.println("hello git! hello myself!");
         System.out.println("hello git! hello myself!");
-        System.out.println("hello git! hello myself! merge hot-fix");
+        System.out.println("hello git! hello myself!");
     }
 }
